@@ -90,9 +90,10 @@ nome   : PMD Ao Porco Lunar Serviç
 ------------------------
 ISPB   : 60701190
 agenc  : 1500
-conta  : 00591704
-CNPJ   : 60701190000104
+conta  : 00642945
+CNPJ   : 56669187001228
 pessoa : J
+nome   : PMD CAT & Partners Negóci
 ------------------------
 
 
